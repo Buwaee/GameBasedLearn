@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 097d0642a72b25c44a050a4819af7891, type: 3}
+  m_Name: Puzzle01
+  m_EditorClassIdentifier: Assembly-CSharp::PuzzleData
+  gridSize: 10
+  words:
+  - word: TENACITY
+    meaning: persistence and determination
+  - word: ABERRANT
+    meaning: deviating from the norm
+  - word: ACUITY
+    meaning: sharpness of thought or perception
+  - word: ZENITH
+    meaning: highest point
+  - word: ASCERTAIN
+    meaning: find out with certainty
+  - word: DISCERN
+    meaning: to recognize or perceive clearly
+  - word: NUANCE
+    meaning: subtle distinction or variation
+  - word: SCRUTINY
+    meaning: close examination
+  - word: OBSOLETE
+    meaning: no longer useful or modern
+  - word: VENERATE
+    meaning: to deeply respect
