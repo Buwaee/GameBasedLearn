@@ -10,7 +10,7 @@ A relaxing educational word puzzle game built in Unity, designed to help players
 
 | Name | Role | GitHub |
 |---|---|---|
-| Efe Ali Işık | Game Designer / UI Designer | @username |
+| Efe Ali Işık | Game Designer / UI Designer | @efealiiiiii |
 | Ebrar Baha Özüpek | Lead Programmer / Level Designer | @Buwaee |
 | Tolga Diğdioğlu | Quality Assurance / Tester | @username |
 
